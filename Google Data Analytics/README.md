@@ -1,7 +1,6 @@
-# Сoursera - Google Data Analytics Professional Certificate
+# Google Data Analytics Professional Certificate
 
-
-Проекты, выполненные мною во время учебы на курсе «[Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)»
+Проекты, выполненные мной во время учебы на курсе «[Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)»
 
 | Проект    | Описание                                                                                                                                                                                                                                                                                                                                     | Инструменты                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
