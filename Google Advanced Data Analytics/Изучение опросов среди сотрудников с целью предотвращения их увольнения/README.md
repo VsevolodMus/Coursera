@@ -32,13 +32,13 @@
 Построенная модель позволяет предсказать, уйдет ли сотрудник, и определить, какие факторы оказывают на него наибольшее влияние. Эти данные могут помочь HR-отделу в принятии решений, направленных на повышение уровня удержания сотрудников.
 
 <p align="center">
-  <img width="733" height="455" src="https://github.com/VsevolodMus/Google_Advanced_Data_Analytics/assets/138299372/1c31494c-31f3-4443-a8ee-b0659b3afcf7">
+  <img width="733" height="455" src="https://github.com/VsevolodMus/Coursera/assets/138299372/0dd31608-bed7-48da-b5fb-968d2e941f5e">
 </p>
 
 На гистограмме выше показаны наиболее значимые переменные: `last_evaluation`, `number_project`, `tenure` и `overworked`.
 
 <p align="center">
-  <img width="718" height="455" src="https://github.com/VsevolodMus/Google_Advanced_Data_Analytics/assets/138299372/d0784f8f-339e-47c9-8aee-756a27f8c15d">
+  <img width="718" height="455" src="https://github.com/VsevolodMus/Coursera/assets/138299372/68b2d127-6e2b-4871-a390-cdd0130f9f83">
 </p>
 
 В приведенной выше модели случайного леса наибольшую значимость имеют переменные `last_evaluation`, `number_project`, `tenure` и `overworked`. Эти переменные наиболее полезны для прогнозирования переменной результата `left`.
