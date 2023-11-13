@@ -1,6 +1,6 @@
 ## О компании
 
-![enter image description here](https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Bellabeat/Worksheets/Bellabeat.jpg?raw=true)
+![enter image description here](https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Bellabeat/Worksheets/Bellabeat.jpg?raw=true)
 
 Bellabeat - высокотехнологичная компания, специализирующаяся на производстве интеллектуальных устройств, ориентированных на здоровье человека. В линейку продукции компании входят различные "умные" гаджеты, предназначенные для сбора информации о физической активности, режиме сна, уровне стресса и репродуктивном здоровье. Эти устройства призваны расширить возможности женщин, предоставляя им ценную информацию об их здоровье и образе жизни.
 
@@ -183,7 +183,7 @@ Bellabeat - высокотехнологичная компания, специ�
 
 `geom_smooth()` с использованием метода = 'loess' и формулы 'y ~ x'
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Bellabeat/Worksheets/Total%20Steps%20vs.%20Calories.png?raw=true" width="400" height="400">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Bellabeat/Worksheets/Total%20Steps%20vs.%20Calories.png?raw=true" width="400" height="400">
 
 
 Существует четкая и ожидаемая положительная связь между общим количеством шагов и количеством калорий, поскольку очевидно, что увеличение физической активности приводит к увеличению расхода калорий.
@@ -191,7 +191,7 @@ Bellabeat - высокотехнологичная компания, специ�
     ggplot(data=sleep, aes(x=TotalMinutesAsleep, y=TotalTimeInBed)) +
 	    geom_point()+ labs(title="Total Minutes Asleep vs. Total Time in Bed")
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Bellabeat/Worksheets/Total%20Minutes%20Asleep%20vs.%20Total%20Time%20in%20Bed.png?raw=true" width="400" height="400">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Bellabeat/Worksheets/Total%20Minutes%20Sleep%20vs.%20Total%20Time%20in%20Bed.png?raw=true" width="400" height="400">
 
 Корреляция между общим количеством минут, проведенных во сне, и общим временем, проведенным в постели, имеет линейный характер. **Это говорит о том, что если пользователи Bellabeat стремятся улучшить свой сон, то использование уведомлений или напоминаний для установления регулярного режима сна может быть полезным.**
 
@@ -206,7 +206,7 @@ Bellabeat - высокотехнологичная компания, специ�
 	    theme(axis.text.x = element_text(angle = 90)) +
 	    labs(title="Average Total Intensity vs. Time")
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Bellabeat/Worksheets/Average%20Total%20Intensity%20vs.%20Time.png?raw=true" width="400" height="400">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Bellabeat/Worksheets/Average%20Total%20Intensity%20vs.%20Time.png?raw=true" width="400" height="400">
 
 - После анализа почасовых данных общей интенсивности стало очевидно, что люди, как правило, более активны в период с 5 до 10 часов утра.
 
@@ -220,7 +220,7 @@ Bellabeat - высокотехнологичная компания, специ�
 
 `geom_smooth()` с использованием метода = 'loess' и формулы 'y ~ x'
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Bellabeat/Worksheets/Minutes%20Asleep%20vs.%20Sedentary%20Minutes.png?raw=true" width="400" height="400">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Bellabeat/Worksheets/Minutes%20Asleep%20vs.%20Sedentary%20Minutes.png?raw=true" width="400" height="400">
 
 - Из полученных данных видно, что существует обратная зависимость между количеством минут, проведенных в сидячем положении, и количеством сна.
 
