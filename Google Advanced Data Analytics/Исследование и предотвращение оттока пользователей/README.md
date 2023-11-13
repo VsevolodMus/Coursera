@@ -33,8 +33,9 @@ Waze — бесплатное приложение для мобильных у�
 ### Заключение
 
 <p align="center">
- <img width="767" height="455" src="https://github.com/VsevolodMus/Google_Advanced_Data_Analytics/assets/138299372/5c5b8559-5a56-47f3-bd6e-ee1fd124bcf9">
+ <img width="767" height="455" src="https://github.com/VsevolodMus/Coursera/assets/138299372/e2b5341b-426b-4685-bb81-06e8a1a86d4c">
 </p>
+
 
 1. Созданные признаки составили шесть из десяти лучших:  `km_per_hour`,  `percent_sessions_in_last_month`,  `total_sessions_per_day`,  `percent_of_drives_to_favorite`,  `km_per_driving_day`, `km_per_drive`.
 2. Модель XGBoost лучше подходит для данных, чем модель случайного леса.
