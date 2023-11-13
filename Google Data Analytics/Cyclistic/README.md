@@ -1,6 +1,6 @@
 ## О компании
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Cyclistic.jpeg?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Cyclistic.jpeg?raw=true">
 
 В 2016 году Cyclistic успешно запустила программу велопроката, которая с тех пор расширилась до парка из 5 824 велосипедов на 692 станциях. Все они оснащены геотрекингом и механизмами блокировки. Эти велосипеды можно брать на одной станции и возвращать на любую другую станцию в сети в любое время.
 До настоящего времени маркетинговая стратегия Cyclistic сосредотачивалась на повышении общей осведомленности и привлечении широкого спектра потребительских сегментов. Гибкие ценовые планы компании, включая проезд один раз, абонементы на целый день и годовые абонементы, сыграли решающую роль в обеспечении такого подхода. Клиентов, выбирающих проезд один раз или абонементы на целый день, называют гостями, в то время как те, кто выбирает годовые абонементы, становятся подписчиками Cyclistic.
@@ -116,49 +116,49 @@
 
 **Круговая диаграмма: гости и подписчики**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Pie%20chart%20of%20Casual%20VS%20Member.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Pie%20chart%20of%20Casual%20VS%20Member.png?raw=true">
 
 Круговая диаграмма показывает, что количество подписчиков превышает число гостей на 44%.
 
 **Продолжительность поездок**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Duration%20of%20trips.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Duration%20of%20trips.png?raw=true">
 
 Для гостей характерно, что максимальная продолжительность поездок приходится на выходные. А подписчики имеют более равномерное распределение своих велосипедных прогулок на неделе. Более продолжительные поездки на классических велосипедах происходят в четверг и вторник, а на электрических велосипедах - в четверг и среду.
 
 **Средняя продолжительность поездок всех пользователей**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Average%20duration%20of%20user%20trips.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Average%20duration%20of%20user%20trips.png?raw=true">
 
 Среднее время поездок гостей на 16 минут продолжительнее, чем у подписчиков.
 
 **Распределение всех пользователей по типу велосипеда**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Distribution%20of%20customers%20by%20type%20of%20bicycle.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Distribution%20of%20customers%20by%20type%20of%20bicycle.png?raw=true">
 
 Самыми популярными являются электрические велосипеды у обоих категорий пользователей, за которыми следуют классические велосипеды. Подписчики редко используют пристыкованные велосипеды к станциям, и даже гости используют их гораздо реже по сравнению с классическими и электрическими велосипедами.
 
 **Средняя продолжительность и количество поездок в месяц**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Average%20duration%20and%20number%20of%20trips%20per%20month.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Average%20duration%20and%20number%20of%20trips%20per%20month.png?raw=true">
 
 Гистограммы, представленные выше, иллюстрируют ежемесячное количество поездок для всех пользователей. Очевидно, что в холодные месяцы как частота поездок, так и средняя продолжительность поездок уменьшаются. Это снижение может быть связано с прохладной погодой, поскольку люди склонны проводить время в помещении или выбирать автомобили и общественный транспорт для поездок.
 
 **Средняя продолжительность и количество поездок в неделю**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Average%20duration%20and%20number%20of%20trips%20per%20week.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Average%20duration%20and%20number%20of%20trips%20per%20week.png?raw=true">
 
 Исходя из предоставленных гистограмм, можно сделать вывод, что гости преимущественно пользуются прокатом велосипедов по выходным, в то время как подписчики пользуются равномерно в течение всей недели, с небольшим повышением активности в будние дни.
 
 **Средняя продолжительность и количество поездок за сутки**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Average%20duration%20and%20number%20of%20trips%20per%20day.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Average%20duration%20and%20number%20of%20trips%20per%20day.png?raw=true">
 
 Этот анализ показывает, что в обоих пользовательских сегментах большая часть поездок приходится на вторую половину дня, причем наибольшее количество поездок приходится на пик около 17:00.
 
 **ТОП-5 популярных станций**
 
-<img src="https://github.com/VsevolodMus/Google_Data_Analytics/blob/main/Cyclistic/Worksheets/Top%205%20Popular%20Start%20Station.png?raw=true">
+<img src="https://github.com/VsevolodMus/Coursera/blob/main/Google%20Data%20Analytics/Cyclistic/Worksheets/Top%205%20Popular%20Start%20Station.png?raw=true">
 
 Этот список представляет пять станций, которые выделяются по частоте использования. Выявление этих станций предоставляет отличную возможность для запуска новых инициатив, программ и промоакций.
 
